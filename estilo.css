@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+body{
+    font-family: "Source Code Pro", monospace;
+    color: chartreuse;
+    background-color: black;
+    text-align: center;
+    border-color: chartreuse;
+    border-style: dashed;
+    padding: 30px;
+
+}
+
+button{
+    color: chartreuse;
+    background-color: black;
+    border-color: chartreuse;
+    padding: 30px;
+    font-weight: bold;
+
+}
+ button:hover{
+    background-color: chartreuse;
+    color: black;
+    font-weight: bold;
+ }
+
+ a{
+    color: chartreuse;
+ }
+
+ a:hover{
+    color: rgb(183, 218, 148);
+ }
+
+input{
+    color: chartreuse;
+    background-color: black;
+    font-family: "Source Code Pro", monospace;
+    border-color: chartreuse;
+}
